@@ -1,0 +1,12 @@
+.place {
+    &__balance {
+        margin-top: 60px;
+        text-wrap: wrap;
+    }
+    &__crypto {
+        margin-top: 75px;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+}
